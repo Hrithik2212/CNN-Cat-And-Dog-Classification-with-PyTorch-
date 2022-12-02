@@ -7,4 +7,8 @@
 
 
 * This repository features implementation of various Convulution Neural Network techniques on the Cat and Dog dataset from kaggle 
- 
+
+
+
+https://user-images.githubusercontent.com/94508892/205221193-62fd7930-9bcd-49a9-ad8f-91f2dcad6704.mp4
+
